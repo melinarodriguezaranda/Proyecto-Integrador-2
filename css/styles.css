@@ -84,7 +84,6 @@ header {
     background: transparent;
     border: 0;
     outline: 0;
-    font-size: 26px;
     width: 40px;
     height: 40px;
 }
@@ -148,10 +147,6 @@ body.mobile-menu-active ul#menu {
 	justify-content: space-around;
 	height: 100%;
 }
-
-
-
-
 /* Main */
 
 main {
