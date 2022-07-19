@@ -13,6 +13,7 @@ menuItems.forEach(function(item) {
       document.body.classList.remove("mobile-menu-active");
 
       const currentItem = document.querySelector(".active");
+      
       currentItem.classList.remove("active");
       this.classList.add("active");
     });
